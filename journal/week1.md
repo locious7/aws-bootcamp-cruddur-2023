@@ -1,16 +1,5 @@
 # Week 1 — App Containerization
 
-
-Install Docker on my local machine
-
-Got familiar with Gitpod
-
-Created the dockerfile for backend-flash
-Build docker image for backend-flash
-Run backend-flask
-
-# Week 1 — App Containerization
-
 ## References
 
 Good Article for Debugging Connection Refused
