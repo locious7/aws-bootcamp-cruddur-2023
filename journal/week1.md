@@ -289,7 +289,7 @@ services:
 Example of using DynamoDB local
 https://github.com/100DaysOfCloud/challenge-dynamodb-local
 
-### Volumes
+### Volumes (docker-compose.yml)
 
 directory volume mapping
 
@@ -298,7 +298,7 @@ volumes:
 - "./docker/dynamodb:/home/dynamodblocal/data"
 ```
 
-### named volume mapping
+### named volume mapping (docker-compose.yml)
 
 ```yaml
 volumes: 
